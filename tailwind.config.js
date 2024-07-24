@@ -31,6 +31,7 @@ module.exports = {
         },
         orange:"#D98500",
         orangelight:"var(--color-orange-light)",
+        orangebg:"#FFD162",
       },
       transitionProperty: {
         height: "height",

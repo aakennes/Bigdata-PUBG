@@ -10,15 +10,23 @@
   },
   "dependencies": {
     "d3": "^7.9.0",
+    "dynamic": "^4.2.2",
     "framer-motion": "^6.2.8",
     "heatmap.js": "^2.0.5",
+    "highcharts": "^11.4.6",
+    "highcharts-react-official": "^3.2.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.3",
+    "net": "^1.0.2",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-hook-form": "^7.28.1",
     "react-icons": "^4.3.1",
     "react-intersection-observer": "^8.33.1",
-    "swiper": "^8.1.1"
+    "react-slider": "^2.0.6",
+    "swiper": "^8.1.1",
+    "tls": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "17.0.21",

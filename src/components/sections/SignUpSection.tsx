@@ -13,13 +13,12 @@ const SignUpSection = () => {
         <Wrapper className="h-full space-y-20 text-center text-white">
           <div className="space-y-5">
             <h1 className="title-page mx-auto max-w-4xl">
-              Sign Up for Updates
+              Look for More Information
             </h1>
             <p className="mx-auto max-w-md">
-              Sign up now to get all the latest news about the game and features
-              that will be implemented. With your feedback, we can continue to
-              enhance the experience for the future of the game and its player
-              base.
+              欢迎fork我们的<a href="https://github.com/aakennes/Bigdata-PUBG" className="text-orange">仓库</a><br/>
+              您可以通过仓库里的的联系方式联系我们<br/>
+              期待您对我们网站的建设
             </p>
           </div>
         </Wrapper>

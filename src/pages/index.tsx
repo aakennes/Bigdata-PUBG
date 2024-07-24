@@ -2,6 +2,7 @@ import Page from "components/containers/pagelayouts/Page";
 import AboutSection from "components/sections/AboutSection";
 import FeatureSection from "components/sections/FeatureSection";
 import HeroSection from "components/sections/HeroSection";
+import DotSection from "components/sections/DotSection";
 import MediaSection from "components/sections/MediaSection";
 import ScreenshotSection from "components/sections/ScreenshotSection";
 import SignUpSection from "components/sections/SignUpSection";
@@ -11,7 +12,7 @@ const Home: NextPage = () => {
   return (
     <Page title="Cavon">
       {/* Hero section */}
-      {/* <HeroSection /> */}
+      <HeroSection />
 
       {/* About Us section */}
       <AboutSection />
@@ -21,6 +22,9 @@ const Home: NextPage = () => {
 
       {/* Feature section */}
       <FeatureSection />
+
+      {/* Dot Section */}
+      <DotSection/>
 
       {/* Media section */}
       <MediaSection />

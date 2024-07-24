@@ -3,11 +3,11 @@ import Section from "components/containers/pagesections/Section";
 import ImageCarousel from "components/ImageCarousel";
 import Screenshot from "components/Screenshot";
 import { SwiperSlide } from "swiper/react";
-import image2 from "../../../public/images/gameplay/enemy_room.png";
-import image3 from "../../../public/images/gameplay/main_menu.png";
-import image1 from "../../../public/images/gameplay/player.png";
-import image4 from "../../../public/images/gameplay/shop.png";
-import image5 from "../../../public/images/gameplay/wizard_npc.png";
+import image2 from "../../../public/images/gameplay/rollingpicture2.png";
+import image3 from "../../../public/images/gameplay/rollingpicture3.png";
+import image1 from "../../../public/images/gameplay/rollingpicture1.png";
+import image4 from "../../../public/images/gameplay/rollingpicture4.png";
+import image5 from "../../../public/images/gameplay/rollingpicture5.png";
 
 const ScreenshotSection = () => {
   return (
